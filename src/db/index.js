@@ -11,7 +11,8 @@ const connectDB = async ()=>{
         process.exit(1); // Exit the process with failure
     }
 }
-
+  //there is default and normal options 
+  
 
 export default connectDB;
 
